@@ -1,4 +1,5 @@
-# This repository consists of the work done for the course "Introduction to Machine Learning and Pattern Recognition".
+# Machine Learning and Pattern Recognition
+This repository consists of the work done for the course "Introduction to Machine Learning and Pattern Recognition".
 
 ## Problem Statement 1
 
